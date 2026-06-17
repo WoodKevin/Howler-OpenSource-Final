@@ -1,0 +1,9 @@
+[run]
+branch = True
+omit =
+    solution1.py
+    solution2.py
+
+[report]
+show_missing = True
+skip_covered = False
