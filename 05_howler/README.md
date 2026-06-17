@@ -71,3 +71,15 @@ test.py::test_file PASSED                                                [100%]
 
 ============================== 5 passed in 0.40s ===============================
 ```
+
+## Contribution Notes
+
+For a full write-up of this project work, see:
+- [CONTRIBUTION.md](CONTRIBUTION.md)
+
+This includes:
+- What was contributed and why it matters
+- Development process and tools used
+- Challenges encountered and how they were solved
+- Key learning outcomes
+- Suggested future improvements
